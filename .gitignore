@@ -36,3 +36,6 @@ cmake-build*
 
 # meson
 meson-build*
+
+# the FPC's nuttx-apps build: dependency files beside the objects
+*.d
