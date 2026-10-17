@@ -21,7 +21,7 @@ Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
 
 #include "quakedef.h"
 #include "r_local.h"
-#include "../fpc_sio.h"	// FPC: the blocks on the interpolators
+#include "fpc_sio.h"	// FPC: the blocks on the interpolators
 
 drawsurf_t	r_drawsurf;
 
